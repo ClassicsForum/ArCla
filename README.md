@@ -1,7 +1,7 @@
 # ArCla
 The Archives of Classical Scholarship (ArCla) assembles a directory to the archival papers (archives) of American classicists and classical archaeologists. 
 
-A collaboration led by faculty at the University of Missouri's School of Information Science & Learning Technologies (SISLT, <a href="http://faculty.missouri.edu/buchanans/">Sarah Buchanan</a>) and Department of Classical Studies (<a href="https://classics.missouri.edu/people/schenker">David Schenker</a>), this project is funded by a 2017 Richard Wallace Faculty Incentive Grant. Clarabelle Fields, BA 2018, serves as Research Assistant. Our ArCla Advisors are RL, LB, WB, GC, and the late DS.
+A collaboration led by faculty at the University of Missouri's School of Information Science & Learning Technologies (SISLT, <a href="http://faculty.missouri.edu/buchanans/">Sarah Buchanan</a>) and Department of Classical Studies (<a href="https://classics.missouri.edu/people/schenker">David Schenker</a>), this project is supported by a 2017 Richard Wallace Faculty Incentive Grant. Clarabelle Fields, BA 2018, serves as Research Assistant. Our ArCla Advisors are RL, LB, WB, GC, and the late DS.
 
 See the gh-pages branch. Thank you to Andromeda Yelton and GitHub<br>
 
