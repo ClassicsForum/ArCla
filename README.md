@@ -3,7 +3,7 @@ The Archives of Classical Scholarship (ArCla) assembles a directory to the archi
 
 A collaboration led by faculty at the University of Missouri's School of Information Science & Learning Technologies (SISLT, Sarah Buchanan) and Department of Classical Studies (David Schenker), this project is funded by a 2017 Richard Wallace Faculty Incentive Grant.
 
-See the gh-pages branch. Thank you to Andromeda Yelton and GitHub :)
+See the gh-pages branch. Thank you to Andromeda Yelton and GitHub :)<br>
 
 
 Version 1 of this project began at Princeton University (<a href="http://firestone.princeton.edu/classics/classicalscholars/index.php">2005</a>) and the University of South Carolina (<a href="https://classicalstudies.org/publications-and-research/newsletter/summer-fall-2010-newsletter">2010</a>), and related work continues now at Rutgers: https://dbcs.rutgers.edu/index.php<p>
