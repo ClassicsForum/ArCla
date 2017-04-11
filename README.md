@@ -8,7 +8,7 @@ See the gh-pages branch. Thank you to Andromeda Yelton and GitHub<br>
 
 Version 1 of this project began at Princeton University (<a href="http://firestone.princeton.edu/classics/classicalscholars/index.php">2005</a>) and the University of South Carolina (<a href="https://classicalstudies.org/publications-and-research/newsletter/summer-fall-2010-newsletter">2010</a>), and related work continues now at Rutgers: https://dbcs.rutgers.edu/index.php<p>
 Our data sources include:<p>
-Briggs, Ward W. Jr. (1994). <i>Biographical Dictionary of North American Classicists</i>(BDNAC). Westport, Conn.: Greenwood Press.<p>
+Briggs, Ward W. Jr. (1994). <i>Biographical Dictionary of North American Classicists</i> (BDNAC). Westport, Conn.: Greenwood Press.<p>
 <i>future</i>:<p>
 Briggs, Ward W. and Calder, William M. III (Eds.). (1990). <i>Classical Scholarship: A Biographical Encyclopedia</i>. New York: Garland Pub.<p>
 Calder III, William M. (1992). <i>An Introductory Bibliography to the History of Classical Scholarship Chiefly in the XIXth and XXth Centuries</i>. Germany: Olms.<p>
