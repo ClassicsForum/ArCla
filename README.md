@@ -14,7 +14,7 @@ Briggs, Ward W. and Calder, William M. III (Eds.). (1990). <i>Classical Scholars
 Calder III, William M. (1992). <i>An Introductory Bibliography to the History of Classical Scholarship Chiefly in the XIXth and XXth Centuries</i>. Germany: Olms.<p>
 Calder III, William M. and R. Scott Smith. (2000). <i><a href="http://bmcr.brynmawr.edu/2001/2001-12-05.html">A Supplementary Bibliography to the History of Classical Scholarship. Chiefly in the XIXth and XXth Centuries</a></i>. Bari: Edizioni Dedalo.<p>
 Gaichas, Lawrence E. (Ed.). (1996). <i>The Directory of College and University Classicists in the United States and Canada</i>. Classical Association of the Atlantic States.<p>
-Gudeman, Alfred (1862-1942). (1911). <i>Imagines Philologorum</i> (160 biographies). Volume held at Columbia University Library with material on 560 classical scholars.<p>
+Gudeman, Alfred (1862-1942). (1911). <i>Imagines Philologorum</i> (160 biographies). Volume held at Columbia University Libraries with material on 560 classical scholars.<p>
 Montanari, Franco. “Catalogus Philologorum.” <a href="http://www.aristarchus.unige.net/CPhCl/en/Home">http://www.aristarchus.unige.net/CPhCl/en/Home</a><p>
 Obermayer, Hans Peter. (2014). <i><a href="https://doi.org/10.1353/clw.2015.0000">Deutsche Altertumswissenschaftler im amerikanischen Exil: Eine Rekonstruktion</a> [German Classicists in American Exile: A Reconstruction]</i>. Berlin and Boston: De Gruyter.<p>
 Richardson, Edmund. (2013). <i>Classical Victorians: Scholars, Scoundrels and Generals in pursuit of antiquity</i>. Cambridge, New York: Cambridge University Press.<p>
