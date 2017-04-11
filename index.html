@@ -61,7 +61,7 @@
       tr.header-row {
         /* Header row. */
         display: inherit;
-        background-color: #d0e9c6;
+        background-color: #fbd986;
       }
 
       .wide {
@@ -82,11 +82,11 @@
       }
 
       .btn-default.active {
-        background-color: #d0e9c6;
+        background-color: #fbd986;
       }
 
       header.jumbotron {
-        background-color: rgb(92, 184, 92);
+        background-color: rgb(74, 30, 12);
         color: white;
       }
 
@@ -96,7 +96,8 @@
 
   <header class="jumbotron">
     <div class="container">
-      <h1>ALA Council Candidate Sorter 2017</h1>
+      <h1>ArCla : Archives of Classical Scholarship 
+directory sorter</h1>
     </div>
   </header>
 
@@ -113,20 +114,20 @@
         <div class="col-sm-4">
           <div class="panel panel-default">
             <div class="panel-heading">
-              <h3 class="panel-title">Divisions</h3>
+              <h3 class="panel-title">Birthplace</h3>
             </div>
             <div class="panel-body" id="filter-divisions">
-              <button type="button" class="btn btn-default" id="AASL">AASL</button>
-              <button type="button" class="btn btn-default" id="ALCTS">ALCTS</button>
-              <button type="button" class="btn btn-default" id="ALSC">ALSC</button>
-              <button type="button" class="btn btn-default" id="ACRL">ACRL</button>
-              <button type="button" class="btn btn-default" id="ASCLA">ASCLA</button>
-              <button type="button" class="btn btn-default" id="LITA">LITA</button>
-              <button type="button" class="btn btn-default" id="LLAMA">LLAMA</button>
-              <button type="button" class="btn btn-default" id="PLA">PLA</button>
-              <button type="button" class="btn btn-default" id="RUSA">RUSA</button>
-              <button type="button" class="btn btn-default" id="UNITED">United</button>
-              <button type="button" class="btn btn-default" id="YALSA">YALSA</button>
+              <button type="button" class="btn btn-default" id="United States">United States</button>
+              <button type="button" class="btn btn-default" id="Germany">Germany</button>
+              <button type="button" class="btn btn-default" id="Italy">Italy</button>
+              <button type="button" class="btn btn-default" id="Greece">Greece</button>
+              <button type="button" class="btn btn-default" id="a">a</button>
+              <button type="button" class="btn btn-default" id="b">b</button>
+              <button type="button" class="btn btn-default" id="c">c</button>
+              <button type="button" class="btn btn-default" id="d">d</button>
+              <button type="button" class="btn btn-default" id="e">e</button>
+              <button type="button" class="btn btn-default" id="f">f</button>
+              <button type="button" class="btn btn-default" id="g">g</button>
             </div>
           </div>
         </div>
@@ -134,28 +135,18 @@
         <div class="col-sm-4">
           <div class="panel panel-default">
             <div class="panel-heading">
-              <h3 class="panel-title">Round Tables</h3>
+              <h3 class="panel-title">Main Affiliation Region</h3>
             </div>
             <div class="panel-body" id="filter-rts">
-              <button type="button" class="btn btn-default" id="EMIERT">EMIERT</button>
-              <button type="button" class="btn btn-default" id="ERT">ERT</button>
-              <button type="button" class="btn btn-default" id="FAFLRT">FAFLRT</button>
-              <button type="button" class="btn btn-default" id="GAMERT">GAMERT</button>
-              <button type="button" class="btn btn-default" id="GLBTRT">GLBTRT</button>
-              <button type="button" class="btn btn-default" id="GODORT">GODORT</button>
-              <button type="button" class="btn btn-default" id="IFRT">IFRT</button>
-              <button type="button" class="btn btn-default" id="IRRT">IRRT</button>
-              <button type="button" class="btn btn-default" id="LEARNRT">LearnRT</button>
-              <button type="button" class="btn btn-default" id="LIRT">LIRT</button>
-              <button type="button" class="btn btn-default" id="LRRT">LRRT</button>
-              <button type="button" class="btn btn-default" id="LSSIRT">LSSIRT</button>
-              <button type="button" class="btn btn-default" id="MAGIRT">MAGIRT</button>
-              <button type="button" class="btn btn-default" id="NMRT">NMRT</button>
-              <button type="button" class="btn btn-default" id="RMRT">RMRT</button>
-              <button type="button" class="btn btn-default" id="SRRT">SRRT</button>
-              <button type="button" class="btn btn-default" id="SORT">SORT</button>
-              <button type="button" class="btn btn-default" id="SUSTAINRT">SustainRT</button>
-              <button type="button" class="btn btn-default" id="VRT">VRT</button>
+              <button type="button" class="btn btn-default" id="US West">US West</button>
+              <button type="button" class="btn btn-default" id="US Midwest">US Midwest</button>
+              <button type="button" class="btn btn-default" id="US Northeast">US Northeast</button>
+              <button type="button" class="btn btn-default" id="US South">US South</button>
+              <button type="button" class="btn btn-default" id="Germany">Germany</button>
+              <button type="button" class="btn btn-default" id="Italy">Italy</button>
+              <button type="button" class="btn btn-default" id="Greece">Greece</button>
+              <button type="button" class="btn btn-default" id="h">h</button>
+              <button type="button" class="btn btn-default" id="i">i</button>
             </div>
           </div>
         </div>
@@ -163,15 +154,18 @@
         <div class="col-sm-4">
           <div class="panel panel-default">
             <div class="panel-heading">
-              <h3 class="panel-title">Ethnic Caucuses</h3>
+              <h3 class="panel-title">Location of Papers</h3>
             </div>
             <div class="panel-body" id="filter-caucuses">
-              <button type="button" class="btn btn-default" id="AILA">AILA</button>
-              <button type="button" class="btn btn-default" id="APALA">APALA</button>
-              <button type="button" class="btn btn-default" id="BCALA">BCALA</button>
-              <button type="button" class="btn btn-default" id="CALA">CALA</button>
-              <button type="button" class="btn btn-default" id="REFORMA">REFORMA</button>
-            </div>
+              <button type="button" class="btn btn-default" id="US West">US West</button>
+              <button type="button" class="btn btn-default" id="US Midwest">US Midwest</button>
+              <button type="button" class="btn btn-default" id="US Northeast">US Northeast</button>
+              <button type="button" class="btn btn-default" id="US South">US South</button>
+              <button type="button" class="btn btn-default" id="California">California</button>
+              <button type="button" class="btn btn-default" id="Massachusetts">Massachusetts</button>
+              <button type="button" class="btn btn-default" id="New York">New York</button>
+              <button type="button" class="btn btn-default" id="Greece">Greece</button>
+           </div>
           </div>
         </div>
       </div>
@@ -183,21 +177,75 @@
         <div class="col-sm-4">
           <div class="panel panel-default">
             <div class="panel-heading">
-              <h3 class="panel-title">Library Types</h3>
+              <h3 class="panel-title">Final Degree</h3>
             </div>
             <div class="panel-body" id="filter-types">
-              <button type="button" class="btn btn-default" id="Academic">Academic</button>
-              <button type="button" class="btn btn-default" id="Public">Public</button>
-              <button type="button" class="btn btn-default" id="School">School</button>
-              <button type="button" class="btn btn-default" id="Other">Other</button>
-            </div>
+              <button type="button" class="btn btn-default" id="Doctorate">Doctorate</button>
+              <button type="button" class="btn btn-default" id="Master's">Master's</button>
+              <button type="button" class="btn btn-default" id="Bachelor's">Bachelor's</button>
+              <button type="button" class="btn btn-default" id="High School and Other">High School and Other</button>
+           </div>
           </div>
         </div>
 
-        <div class="col-sm-8">
+        <div class="col-sm-4">
           <div class="panel panel-default">
             <div class="panel-heading">
-              <h3 class="panel-title">States</h3>
+              <h3 class="panel-title">Birthdate Vicennial (20 Years)</h3>
+            </div>
+            <div class="panel-body" id="filter-caucuses">
+              <button type="button" class="btn btn-default" id="1701-1720">1701-1720</button>
+              <button type="button" class="btn btn-default" id="1721-1740">1721-1740</button>
+              <button type="button" class="btn btn-default" id="1741-1760">1741-1760</button>
+              <button type="button" class="btn btn-default" id="1761-1780">1761-1780</button>
+              <button type="button" class="btn btn-default" id="1781-1800">1781-1800</button>
+              <button type="button" class="btn btn-default" id="1801-1820">1801-1820</button>
+              <button type="button" class="btn btn-default" id="1821-1840">1821-1840</button>
+              <button type="button" class="btn btn-default" id="1841-1860">1841-1860</button>
+              <button type="button" class="btn btn-default" id="1861-1880">1861-1880</button>
+              <button type="button" class="btn btn-default" id="1881-1900">1881-1900</button>
+              <button type="button" class="btn btn-default" id="1901-1920">1901-1920</button>
+              <button type="button" class="btn btn-default" id="1921-1940">1921-1940</button>
+              <button type="button" class="btn btn-default" id="1941-1960">1941-1960</button>
+              <button type="button" class="btn btn-default" id="1961-1980">1961-1980</button>
+              <button type="button" class="btn btn-default" id="1981-2000">1981-2000</button>
+              <button type="button" class="btn btn-default" id="2001-2020">2001-2020</button>
+           </div>
+          </div>
+        </div>
+      </div>
+
+        <div class="col-sm-4">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">Deathdate Vicennial (20 Years)</h3>
+            </div>
+            <div class="panel-body" id="filter-caucuses">
+              <button type="button" class="btn btn-default" id="1701-1720">1701-1720</button>
+              <button type="button" class="btn btn-default" id="1721-1740">1721-1740</button>
+              <button type="button" class="btn btn-default" id="1741-1760">1741-1760</button>
+              <button type="button" class="btn btn-default" id="1761-1780">1761-1780</button>
+              <button type="button" class="btn btn-default" id="1781-1800">1781-1800</button>
+              <button type="button" class="btn btn-default" id="1801-1820">1801-1820</button>
+              <button type="button" class="btn btn-default" id="1821-1840">1821-1840</button>
+              <button type="button" class="btn btn-default" id="1841-1860">1841-1860</button>
+              <button type="button" class="btn btn-default" id="1861-1880">1861-1880</button>
+              <button type="button" class="btn btn-default" id="1881-1900">1881-1900</button>
+              <button type="button" class="btn btn-default" id="1901-1920">1901-1920</button>
+              <button type="button" class="btn btn-default" id="1921-1940">1921-1940</button>
+              <button type="button" class="btn btn-default" id="1941-1960">1941-1960</button>
+              <button type="button" class="btn btn-default" id="1961-1980">1961-1980</button>
+              <button type="button" class="btn btn-default" id="1981-2000">1981-2000</button>
+              <button type="button" class="btn btn-default" id="2001-2020">2001-2020</button>
+           </div>
+          </div>
+        </div>
+      </div>
+   
+     <xdiv class="col-sm-8">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">Main Affiliation US State</h3>
             </div>
             <div class="panel-body" id="filter-states">
             </div>
@@ -211,7 +259,7 @@
 
     <!-- begin filter logic explainer -->
     <div class="col-sm-2 border-left full-height">
-      <em>Divisions, RTs, caucuses, library types, and states use OR within facets and AND between facets.</em>
+      <em>Birthplace, Main Affiliation, Location of Papers, and Final Degree use OR within facets and AND between facets. Use Birthplace and Main Affiliation to see refugees.</em>
     </div>
     <!-- end filter logic explainer -->
 
@@ -223,8 +271,8 @@
   <!-- begin spectrum/EL button area -->
   <div class="row filter-buttons">
     <div class="col-sm-10">
-      <button type="button" class="btn btn-default" id="spectrum">Spectrum scholars only</button>
-      <button type="button" class="btn btn-default" id="EL">Emerging Leaders only</button>
+      <button type="button" class="btn btn-default" id="spectrum">Women</button>
+      <button type="button" class="btn btn-default" id="EL">Refugees</button>
     </div>
     <div class="col-sm-2">
       <em>These are Booleans.</em>
@@ -235,8 +283,8 @@
   <hr />
 
   <p class="text-center">
-    <a href="https://www.directvote.net/ala/" class="btn btn-success btn-lg">Vote here</a><br />
-    <em>(Check your email for login information. ALA members only, of course.)</em>
+    <a href="http://www.classicslibrarians.org/" class="btn btn-success btn-lg">Check out the FCLSC</a><br />
+    <em>Research Team: Sarah Buchanan, David Schenker, Clarabelle Fields. Thank you to our Project Advisors: RL, LB, WB, GC, and the late DS.</em>
   </p>
 
   <br />
@@ -244,29 +292,28 @@
   <table class="table table-hover table-bordered">
     <!--Created with XmlGrid Free Online XML Editor (http://xmlgrid.net)-->
     <tr class="header-row">
-          <td>First Name</td>
+          <td>First+Middle Name</td>
           <td>Last Name</td>
-          <td>Current Position</td>
-          <td>Type of Library</td>
-          <td>Previous Positions</td>
-          <td>Degrees and Certifications</td>
-          <td>Division Affiliation(s)</td>
-          <td>To which Round Tables do you belong?</td>
-          <td>To which Ethnic Affiliates do you belong?</td>
-          <td>Were/are you a Spectrum Scholar?</td>
-          <td>Were/are you an Emerging Leader?</td>
-          <td>ALA and/or ALA-APA Activites</td>
-          <td>Offices held in the ALA-APA, state, &amp; regional library associations, &amp; other associations</td>
-          <td>Honors and Awards</td>
+          <td>Birthplace</td>
+          <td>Main Affiliation</td>
+          <td>Main Affiliation Region</td>
+          <td>Location of Papers</td>
+          <td>Final Degree</td>
+          <td>Birthdate Vicennial</td>
+          <td>Deathdate Vicennial</td>
+          <td>Degree Granting Institution</td>
+          <td>Main Affiliation US State</td>
+          <td>Woman?</td>
+          <td>Refugee?</td>
+          <td>Collection Name+Number</td>
+          <td>Link to Collection Info</td>
+          <td>Correspondents</td>
           <td>Major Accomplishments</td>
-          <td>Publications</td>
-          <td>Links for Further Information</td>
-          <td>Statement of Professional Concern</td>
-          <td>Member of ALA since</td>
+          <td>Offices held in the APA / SCS, state, &amp; regional Classics associations, &amp; other associations</td>
           <td>State</td>
     </tr>
     <tr class="initial-show">
-          <td>Hilary</td>
+          <td>Frank Frost</td>
           <td>Albert</td>
           <td>Librarian II, Mahopac Public Library, Mahopac, NY</td>
           <td>Public</td>
