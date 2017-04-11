@@ -16,6 +16,6 @@ Calder III, William M. and R. Scott Smith. (2000). <i><a href="http://bmcr.brynm
 Gaichas, Lawrence E. (Ed.). (1996). <i>The Directory of College and University Classicists in the United States and Canada</i>. Classical Association of the Atlantic States.<p>
 Gudeman, Alfred (1862-1942). (1911). <i>Imagines Philologorum</i> (160 biographies). Volume held at Columbia University Library with material on 560 classical scholars.<p>
 Montanari, Franco. “Catalogus Philologorum.” <a href="http://www.aristarchus.unige.net/CPhCl/en/Home">http://www.aristarchus.unige.net/CPhCl/en/Home</a><p>
-Obermayer, Hans Peter. (2014). <i>Deutsche Altertumswissenschaftler im amerikanischen Exil: Eine Rekonstruktion [German Classicists in American Exile: A Reconstruction]</i>. Berlin and Boston: De Gruyter.
+Obermayer, Hans Peter. (2014). <i>Deutsche Altertumswissenschaftler im amerikanischen Exil: Eine Rekonstruktion [German Classicists in American Exile: A Reconstruction]</i>. Berlin and Boston: De Gruyter.<p>
 Todd, Robert B. (Ed.). (2004). <i>The Dictionary of British Classicists</i> (DBC). 3 vols. London: Thoemmes Continuum.<p>
 Wyles, Rosie, and Edith Hall (Eds.). (2016). <i>Women Classical Scholars: Unsealing the Fountain from the Renaissance to Jacqueline de Romilly</i>. Oxford: Oxford University Press. <p>
