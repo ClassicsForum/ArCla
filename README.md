@@ -14,7 +14,7 @@ Wyles, Rosie, and Edith Hall (Eds.). (2016). <i>Women Classical Scholars: Unseal
 Gaichas, Lawrence E. (Ed.). (1996). <i>The Directory of College and University Classicists in the United States and Canada</i>. Classical Association of the Atlantic States. (Source3: Aug-- 2017)<p>
 Cohen, Getzel M. and Joukowsky, Martha Sharp (Eds.). (2004). <i>Breaking Ground: Pioneering Women Archaeologists</i>. Ann Arbor: University of Michigan Press. (Source4: Sep-Oct 2017)<p>
 Briggs, Ward W. and Calder, William M. III (Eds.). (1990). <i>Classical Scholarship: A Biographical Encyclopedia</i>. New York: Garland Pub. (Source5: Oct 2017)<p>
-Gudeman, Alfred (1862-1942). (1911). <i>Imagines Philologorum</i> (160 biographies). <a href="http://laurel.lso.missouri.edu/record=b3574038~S8">Volume</a> with material on 560 classical scholars. (Source6: Oct-- 2017)<p>
+Gudeman, Alfred (1862-1942). (1911). <i>Imagines Philologorum</i> (160 biographies). Leipzig: B.G. Teubner. (Source6: Oct-- 2017) <a href="http://laurel.lso.missouri.edu/record=b3574038~S8">Volume</a> with material on 560 classical scholars, <a href="https://clio.columbia.edu/catalog/8145398">online</a>; Gudeman manuscripts at <a href="https://clio.columbia.edu/catalog/4078844">Columbia University</a>.<p>
 <i>future</i>:<p>
 Calder III, William M. and R. Scott Smith. (2000). <i><a href="http://bmcr.brynmawr.edu/2001/2001-12-05.html">A Supplementary Bibliography to the History of Classical Scholarship. Chiefly in the XIXth and XXth Centuries</a></i>. Bari: Edizioni Dedalo.<p>
 Edgcomb, Gabrielle Simon. (1993). <i>From Swastika to Jim Crow: Refugee Scholars at Black Colleges</i>. Malabar, FL: Krieger Publishing Company.<p>
