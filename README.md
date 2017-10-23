@@ -13,11 +13,11 @@ Calder III, William M. (1992). <i>An Introductory Bibliography to the History of
 Wyles, Rosie, and Edith Hall (Eds.). (2016). <i>Women Classical Scholars: Unsealing the Fountain from the Renaissance to Jacqueline de Romilly</i>. Oxford: Oxford University Press. (Source2: July 2017)<p>
 Gaichas, Lawrence E. (Ed.). (1996). <i>The Directory of College and University Classicists in the United States and Canada</i>. Classical Association of the Atlantic States. (Source3: Aug-- 2017)<p>
 Cohen, Getzel M. and Joukowsky, Martha Sharp (Eds.). (2004). <i>Breaking Ground: Pioneering Women Archaeologists</i>. Ann Arbor: University of Michigan Press. (Source4: Sep-Oct 2017)<p>
-Briggs, Ward W. and Calder, William M. III (Eds.). (1990). <i>Classical Scholarship: A Biographical Encyclopedia</i>. New York: Garland Pub. (Source5: Oct-- 2017)<p>
+Briggs, Ward W. and Calder, William M. III (Eds.). (1990). <i>Classical Scholarship: A Biographical Encyclopedia</i>. New York: Garland Pub. (Source5: Oct 2017)<p>
+Gudeman, Alfred (1862-1942). (1911). <i>Imagines Philologorum</i> (160 biographies). <a href="http://laurel.lso.missouri.edu/record=b3574038~S8">Volume</a> with material on 560 classical scholars. (Source6: Oct-- 2017)<p>
 <i>future</i>:<p>
 Calder III, William M. and R. Scott Smith. (2000). <i><a href="http://bmcr.brynmawr.edu/2001/2001-12-05.html">A Supplementary Bibliography to the History of Classical Scholarship. Chiefly in the XIXth and XXth Centuries</a></i>. Bari: Edizioni Dedalo.<p>
 Edgcomb, Gabrielle Simon. (1993). <i>From Swastika to Jim Crow: Refugee Scholars at Black Colleges</i>. Malabar, FL: Krieger Publishing Company.<p>
-Gudeman, Alfred (1862-1942). (1911). <i>Imagines Philologorum</i> (160 biographies). Volume held at Columbia University Libraries with material on 560 classical scholars.<p>
 Montanari, Franco. “Catalogus Philologorum.” <a href="http://www.aristarchus.unige.net/CPhCl/en/Home">http://www.aristarchus.unige.net/CPhCl/en/Home</a><p>
 Obermayer, Hans Peter. (2014). <i><a href="https://doi.org/10.1353/clw.2015.0000">Deutsche Altertumswissenschaftler im amerikanischen Exil: Eine Rekonstruktion</a> [German Classicists in American Exile: A Reconstruction]</i>. Berlin and Boston: De Gruyter.<p>
 Richardson, Edmund. (2013). <i>Classical Victorians: Scholars, Scoundrels and Generals in pursuit of antiquity</i>. Cambridge, New York: Cambridge University Press.<p>
